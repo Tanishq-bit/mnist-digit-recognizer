@@ -25,16 +25,19 @@ This project demonstrates a Convolutional Neural Network (CNN) model built with 
 
 ## 📁 Project Structure
 
+```
 mnist-digit-recognizer/
 ├── models/
-│ └── digit_cnn_model.h5 # Trained model file
+│   └── digit_cnn_model.h5         # Trained model file
 ├── src/
-│ ├── train_model.py # Training script
-│ └── predict_digit.py # Prediction script
+│   ├── train_model.py             # Training script
+│   └── predict_digit.py           # Prediction script
 ├── test_samples/
-│ └── digit_7.png # test image
+│   └── digit_7.png                # Sample test image
 ├── requirements.txt
 └── README.md
+```
+
 
 Install dependencies
 
